@@ -1,4 +1,5 @@
 # Web scrap dinâmico em Python
+![WebScrap]('https://github.com/guidolingip1/Web-Scrap-LOL/blob/main/webscrap.gif')
 
 ## Mas Gui, O que é Web Scrap?
 Coletar dados da Web usando scripts que vão "raspar" a informação e utilizar ela a nosso favor.
